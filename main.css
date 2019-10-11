@@ -496,7 +496,7 @@ legend {
 }
 
 .choices[data-type*="select-one"] .choices__button {
-  background-image: url("../../icons/cross-inverse.svg");
+  background-image: url("https://raw.githubusercontent.com/develop2clickcomputers/clickcomputers/master/DDS.png");
   padding: 0;
   background-size: 8px;
   height: 100%;
